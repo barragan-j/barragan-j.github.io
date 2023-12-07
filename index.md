@@ -1,10 +1,12 @@
-# Juan Barragan's Portfolio
+# Hello World!
 
 My name is Juan Barragan and I am a student at Cal State Fullerton and am majoring in computer science!
 
+# Computer Science Projects
+
 My GitHub page is https://github.com/barragan-j
 
-# Favorite CPSC 120L Labs
+# CPSC 120L
 
 * Lab 1, Part 1
   
