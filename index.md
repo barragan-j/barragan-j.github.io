@@ -1,6 +1,6 @@
 # Juan Barragan's Portfolio
 
-My name is Juan Barragan and this is my portfolio! I am a student at Cal State Fullerton and am majoring in computer science!
+My name is Juan Barragan and I am a student at Cal State Fullerton and am majoring in computer science!
 
 # Favorite CPSC 120L Labs
 
